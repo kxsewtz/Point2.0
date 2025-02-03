@@ -3,7 +3,7 @@ from tkinter.colorchooser import askcolor
 
 root = Tk()
 root.geometry("600x400")
-root.title("Paint2.0")
+root.title("Point2.0")
 root["bg"] = "gray75"
 
 canvas = Canvas(root, width= 540, height= 400, bg = "white")
